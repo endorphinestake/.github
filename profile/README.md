@@ -62,7 +62,9 @@ We value our community and actively involve contributors, developers, and valida
 - ![Telegram](https://img.shields.io/badge/-Join%20Telegram-0088CC?logo=telegram&logoColor=white&style=flat-square) **Join Discussions**: Be part of our community in [Telegram](https://endorphinestake.com).  
 - ![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=flat-square) **Chat on Discord**: Join the conversation in our [Discord](https://endorphinestake.com).  
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square) **Open Source Contributions**: Check out our projects on [GitHub](https://github.com/endorphinestake) and contribute.  
-- ![Feedback](https://img.shields.io/badge/-Submit%20Ideas-E44D26?logo=git&logoColor=white&style=flat-square) **Feedback & Proposals**: Submit ideas via [GitHub Issues](https://github.com/endorphinestake) or participate in community calls.  
+- ![Feedback](https://img.shields.io/badge/-Submit%20Ideas-E44D26?logo=git&logoColor=white&style=flat-square) **Feedback & Proposals**: Submit ideas via [GitHub Issues](https://github.com/endorphinestake) or participate in community calls.
+- **Blog**: Explore in-depth articles and updates on our [Mirror](https://mirror.xyz/endorphinestake.eth), ready to mint.
+- **Linkedin**: Follow us on [Linkedin](https://www.linkedin.com/company/endorphinestake).
 
 
 ### Why Join?  
