@@ -8,7 +8,7 @@
 
 ```
 
-At Endorphine Stake, we want to restore trust in the decentralisation of proof-of-stake blockchains. Our mission is to provide world-class validation services that ensure high availability, security and reliability for blockchain networks.
+At Endorphine Stake, we want to restore trust in the decentralization of proof-of-stake blockchains. Our mission is to provide world-class validation services that ensure high availability, security and reliability for blockchain networks.
 
 ## 🛠️ Tech Stack  
 
